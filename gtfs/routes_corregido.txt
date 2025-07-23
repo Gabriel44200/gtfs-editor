@@ -1,0 +1,26 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+100,9,1,Abente y Lago-Castrillón,3,982135
+200,9,2,Abente y Lago-Os Castros,3,FDB515
+300,9,3,San Pedro de Visma-Durmideiras,3,C0910F
+301,9,3A,San Pedro de Visma-Durmideiras,3,D3B255
+400,9,4,Av. Hércules-Barrio das Flores,3,00B17A
+500,9,5,Durmideiras-Espacio Coruña,3,6792BC
+600,9,6,Avenida de Hércules-Meicende,3,F96B09
+601,9,6A,Avenida de Hércules-Bens,3,FC9751
+700,9,7,Av. de Hércules-Ventorrillo,3,019FA2
+800,9,2A,Abente y Lago-H. Oza-As Xubias,3,FDCB5A
+1100,9,11,As Lagoas-A. C. Marineda,3,F94F8E
+1200,9,12,Os Rosales-CHUAC-Materno,3,019F02
+1400,9,14,Os Rosales-Castrillón,3,025BBF
+1500,9,12A,Cidade Escolar-CHUAC-Materno,3,4DB94C
+1700,9,17,Avenida de Hércules-CHUAC-Mate,3,A15011
+1800,9,BUH,Praza Pontevedra-Os Castros,3,35264F
+1801,9,BUH,Praza Pontevedra-Pablo Picasso,3,35264F
+1900,9,1A,Abente y Lago-A Pasaxe,3,E46078
+2000,9,20,Juan Flórez 10-A Pasaxe,3,982135
+2100,9,21,Juana de Vega-Novo Mesoiro,3,355787
+2200,9,22,Juan Flórez 10-A Pasaxe,3,934165
+2300,9,23,Abente y Lago-Breogán,3,8E47AD
+2301,9,23A,Abente y Lago-Breogán,3,AE7FC5
+2400,9,24,Praza de Pontevedra-O Carón,3,056E74
+2450,9,UDC,Pra.Pontevedra-Elviña-UDC,3,D61D3F

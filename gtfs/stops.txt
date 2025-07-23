@@ -1,0 +1,535 @@
+stop_code,stop_desc,stop_id,stop_lat,stop_lon,stop_name
+1,,1,43.370115,-8.39585,Porta Real
+2,"Av. da Mariña, Teatro Rosalía",2,43.369768,-8.399365,"Av. da Mariña,Teatro Rosalía"
+3,"Av. da Mariña, Obelisco",3,43.36842,-8.402187,"Av. Mariña, Obelisco"
+4,,4,43.36648,-8.404737,"Pza. de Mina, 26"
+5,,5,43.364718,-8.405232,Pza. de Ourense
+6,,6,43.362822,-8.405483,"Linares Rivas, 26"
+7,,7,43.360672,-8.404575,"Primo de Rivera, 1"
+8,,8,43.357153,-8.404442,Catro Camiños
+9,"Cabaleiros, fronte á Estación Autobuses",9,43.353303,-8.406075,"Cabaleiros,Est.Autob"
+10,"Cabaleiros, Ministerios",10,43.351197,-8.405128,"Cabaleiros,Minister."
+11,"Av. de Monelos, Torre 8",11,43.348812,-8.403268,"Av. Monelos, Torre 8"
+12,"Av. de Monelos, Bloque 2",12,43.34707,-8.4016,"Av. Monelos,Bloque 2"
+15,"Pza. de Pablo Iglesias, 8",15,43.347367,-8.397603,"Pza.Pablo Iglesias,8"
+16,,16,43.348855,-8.396738,"Abegondo, 4"
+17,,17,43.350303,-8.396965,"Castrillón, 39"
+18,"Pza. da Concordia, 27",18,43.351477,-8.394442,"Pza. da Concordia,27"
+19,,19,43.351933,-8.391928,"Av. da Concordia, 9"
+20,,20,43.351963,-8.390232,Os Castros
+21,"Av. do Exército, glorieta",21,43.355293,-8.395613,"Av.Exército,glorieta"
+22,"Av. do Exército, cruzamento Porto",22,43.358152,-8.400273,"Av.Exército,cr.Porto"
+23,"Primo de Rivera, A Palloza",23,43.359642,-8.403302,"Primo Rivera,Palloza"
+24,"Primo de Rivera, viaduto",24,43.362,-8.405097,"Primo Rivera,viaduto"
+25,,25,43.364415,-8.404943,Pza. de Ourense
+26,,26,43.366512,-8.404457,Pza. de Mina
+27,,27,43.368712,-8.40146,Obelisco
+28,,28,43.369723,-8.39921,Autoridade Portuaria
+29,"Av. de Oza, Río Monelos",29,43.355542,-8.400855,"Av. Oza, Río Monelos"
+30,,30,43.354448,-8.39775,"Av. de Oza, Gaiteira"
+31,,31,43.353722,-8.39427,"Av. de Oza, 142"
+32,,32,43.353085,-8.391733,"Av. de Oza, 186"
+33,,33,43.35266,-8.389982,"Av. de Oza, 212"
+34,,34,43.352055,-8.388253,"Av. de Oza, 254"
+35,,35,43.350468,-8.388752,"Av. de Oza, 290"
+36,,36,43.350087,-8.390707,"Av. da Pasaxe, 47"
+37,,37,43.353238,-8.39215,"Av. de Oza, 185"
+38,,38,43.353878,-8.394788,"Av. de Oza, 141"
+39,,39,43.354593,-8.397947,"Av. de Oza, 115"
+40,,40,43.356505,-8.403273,"Av. de Oza, 7"
+41,,41,43.357885,-8.404055,"Costa da Palloza, 5"
+42,"Emilio González López, Manuel Azaña",42,43.374357,-8.431632,"E.Glez.López,M.Azaña"
+43,,43,43.374988,-8.429193,"Manuel Azaña, 27"
+44,"Castelao, Estrada dos Fortes",44,43.372877,-8.428102,"Castelao,Estr.Fortes"
+45,"Gran Canaria, Colombia",45,43.372443,-8.423937,"Gr. Canaria,Colombia"
+46,Pza. do Conservatorio,46,43.371045,-8.421908,Pza.do Conservatorio
+47,"Paseo de Rda., IES Salvador de Madariaga",47,43.369748,-8.420723,"P.Ronda,IES S.Madar."
+48,"Gregorio Hernández, 2",48,43.36704,-8.420457,"Gregorio Hernández,2"
+49,,49,43.364758,-8.418622,"Rda. de Nelle, 145"
+50,,50,43.362445,-8.416768,"Rda. de Nelle, 109"
+51,,51,43.359943,-8.414462,"Rda. de Nelle, 73"
+52,"Rda. de Nelle, Av. de Arteixo",52,43.359057,-8.411465,"Rda.Nelle,Av.Arteixo"
+53,,53,43.358087,-8.407903,"Rda. de Nelle, 9"
+55,"Av. da Pasaxe, Av. da Concordia",55,43.351802,-8.39042,"A.Pasaxe,A.Concordia"
+56,"Av. da Pasaxe, Casablanca",56,43.348682,-8.391132,"Av.Pasaxe,Casablanca"
+57,"Av. da Pasaxe, San Rafael",57,43.345157,-8.38718,"Av.Pasaxe,San Rafael"
+58,,58,43.345002,-8.388637,"CHUAC, Urxencias"
+59,,59,43.34377,-8.387935,"CHUAC, glorieta"
+60,"Av. da Pasaxe, tanatorio",60,43.34523,-8.386857,"Av.Pasaxe, tanatorio"
+61,"Av. da Pasaxe, viaduto",61,43.348515,-8.389308,"Av.da Pasaxe,viaduto"
+64,,64,43.351998,-8.391897,"Av. da Concordia, 14"
+65,,65,43.35153,-8.395438,"Av. da Concordia, 50"
+66,,66,43.351048,-8.39716,"Av. da Concordia, 72"
+67,,67,43.348863,-8.396892,"Abegondo, 3"
+68,Pza. de Pablo Iglesias,68,43.347475,-8.397493,Pza. Pablo Iglesias
+69,"Av. da Concordia, 188",69,43.347397,-8.399588,"Av. da Concordia,188"
+70,,70,43.34622,-8.40052,"Av. de Monelos, 141"
+71,,71,43.347405,-8.40184,"Av. de Monelos, 103"
+72,,72,43.349278,-8.403465,"Av. de Monelos, 45"
+73,,73,43.351185,-8.405035,"Cabaleiros, 33"
+74,"Cabaleiros, Estación Autobuses",74,43.353408,-8.405975,"Cabaleiros,Es.Autob."
+75,"Concepción Arenal, 21",75,43.356783,-8.4041,"Concepción Arenal,21"
+76,,76,43.357595,-8.404855,"Enrique Hervada, 4"
+77,,77,43.358352,-8.408517,"Rda. de Nelle, 26"
+78,,78,43.359417,-8.41238,"Rda. de Nelle, 70"
+79,,79,43.36016,-8.414522,"Rda. de Nelle, 90"
+80,,80,43.362928,-8.416995,"Rda. de Nelle, 130"
+81,"Rda. de Nelle, Paseo das Pontes",81,43.364495,-8.41826,"Rda.Nelle,P.Pontes"
+82,,82,43.367653,-8.420638,"Paseo de Rda., 24"
+83,"Paseo de Rda., Almirante Lángara",83,43.369788,-8.420508,"P.Rda.,Almte.Lángara"
+84,"Gran Canaria, Pza. de Náutica",84,43.370773,-8.421288,"G.Canaria,Pz.Náutica"
+85,,85,43.372853,-8.423798,Honduras
+86,,86,43.374255,-8.42382,"Labañou, 5"
+87,,87,43.375162,-8.427893,"Manuel Azaña, 26"
+88,,88,43.374795,-8.431525,"Manuel Azaña, 64"
+89,"Emilio González López, 32",89,43.375455,-8.434958,"Emilio Glez.López,32"
+90,"Emilio González López, 54",90,43.37297,-8.436083,"Emilio Glez.López,54"
+91,"Rda. de Outeiro, Manuel Murguía",91,43.367717,-8.424708,"Rd.Outeiro,M.Murguía"
+92,,92,43.364997,-8.4244,"Rda. de Outeiro, 293"
+93,,93,43.36333,-8.423267,"Rda. de Outeiro, 269"
+94,,94,43.361055,-8.421567,"Rda. de Outeiro, 249"
+95,,95,43.3584,-8.419653,"Rda. de Outeiro, 219"
+96,"Rda. de Outeiro, Sagrada Familia",96,43.357283,-8.418158,"Rd.Outeiro,S.Familia"
+97,"Rda. de Outeiro, Vioño",97,43.356,-8.414682,"Rda.de Outeiro,Vioño"
+98,,98,43.355452,-8.412712,"Rda. de Outeiro, 147"
+99,,99,43.353977,-8.409787,"Rda. de Outeiro, 109"
+100,"Av. do Ferrocarril, Estación de Trens",100,43.352112,-8.409475,"A.Ferrocar.,Est.Tren"
+101,,101,43.350508,-8.410367,Xeneral Rubín
+102,"Salgado Torres, Milagrosa",102,43.349188,-8.410402,"S.Torres,Milagrosa"
+103,"Salgado Torres, Garda Civil",103,43.34595,-8.414248,"S.Torres,Garda Civil"
+104,"San Cristobal, Birloque",104,43.343883,-8.414452,"S. Cristobal, Birloq"
+105,"San Cristovo, campo de fútbol",105,43.342782,-8.411775,"S.Cristovo,c.fútbol"
+106,"Camilo José Cela, Matogrande",106,43.34272,-8.403808,"C.J.Cela,Matogrande"
+107,"Camilo José Cela, Liceo La Paz",107,43.342812,-8.40122,"C.J.Cela,Liceo Paz"
+108,Glorieta cruzamento Eirís,108,43.34437,-8.398825,Gta.cruzamento Eirís
+109,"Av. de Monelos, Oleoduto",109,43.345392,-8.399772,"Av.Monelos, Oleoduto"
+111,"Camilo José Cela, Bloque 20",111,43.344172,-8.399395,"Camilo J.Cela,Blq.20"
+112,"Camilo José Cela, Bloque 29",112,43.342977,-8.400865,"Camilo J.Cela,Blq.29"
+113,"Camilo José Cela, Bloque 30",113,43.342865,-8.40331,"Camilo J.Cela,Blq.30"
+114,,114,43.342982,-8.411947,"San Cristovo, 2"
+115,,115,43.344648,-8.413397,"Pablo Picasso, 11"
+116,"Pablo Picasso, Edif. San Cristóbal",116,43.346477,-8.410738,"P.Picasso,S.Cristóba"
+117,"Pablo Picasso, Casares Quiroga",117,43.348855,-8.409535,"P.Picasso,C.Quiroga"
+118,,118,43.350608,-8.41024,Xeneral Rubín
+119,"Estación de Trens, glorieta",119,43.353037,-8.408232,"Esta. Trens,glorieta"
+120,,120,43.354375,-8.410077,"Rda. de Outeiro, 126"
+121,,121,43.355353,-8.41212,"Rda. de Outeiro, 152"
+122,,122,43.356235,-8.415128,"Rda. de Outeiro, 172"
+123,,123,43.357542,-8.418272,"Rda. de Outeiro, 212"
+124,,124,43.359588,-8.420273,"Rda. de Outeiro, 232"
+125,,125,43.361227,-8.421457,"Rda. de Outeiro, 252"
+126,,126,43.362562,-8.422417,"Rda. de Outeiro, 272"
+127,,127,43.365988,-8.424555,"Rda. de Outeiro, 304"
+128,,128,43.368442,-8.423008,"Manuel Murguia, 25"
+129,,129,43.357468,-8.40591,San Pedro de Mezonzo
+130,"San Pedro de Visma, igrexa",130,43.367958,-8.429557,"S.Pedro Visma,igrexa"
+131,"San Pedro de Visma, 1",131,43.368707,-8.431438,"San Pedro de Visma,1"
+132,"San Pedro de Visma, Estrada do Portiño",132,43.369707,-8.434362,"Pedro Visma,Portiño"
+134,,134,43.367483,-8.41973,"Av. da Habana, 25"
+137,"Pza. de Pontevedra, 8",137,43.366047,-8.408535,"Pza. de Pontevedra,8"
+138,,138,43.368493,-8.404472,Santa Catalina
+139,,139,43.370053,-8.395852,"Porta Real, Dársena"
+140,"O Parrote, Hotel Finisterre",140,43.368748,-8.393733,"Parrote,H.Finisterre"
+141,,141,43.368828,-8.390217,Museo Militar
+142,,142,43.371533,-8.3922,"Maestranza, 5"
+143,"Nuestra Señora del Rosario, 5",143,43.371502,-8.393803,"Nta. Sra. Rosario, 5"
+144,General Alesón,144,43.37193,-8.395578,General Aleson
+145,,145,43.373817,-8.394415,"Orillamar, 6"
+146,,146,43.37508,-8.395008,"Orillamar, 42"
+147,Cemiterio de Santo Amaro,147,43.378098,-8.397478,Cemiterio de S.Amaro
+148,,148,43.379172,-8.398243,"Orillamar, 96"
+149,Residencia Torrente Ballester,149,43.380927,-8.399127,Resid. T.Ballester
+150,,150,43.38219,-8.396077,"Durmideiras, praia"
+151,,151,43.38352,-8.395543,"Durmideiras, mercado"
+152,"Av. de Navarra, glorieta",152,43.382137,-8.400387,"Av. de Navarra, gta."
+153,Cidade Deportiva da Torre,153,43.383243,-8.402082,Cidade Deport.Torre
+154,"Paseo Marítimo, fronte FP Ánxel Casal",154,43.383063,-8.409607,"P.Marítimo,FP Casal"
+155,"Paseo Marítimo, As Lagoas",155,43.380988,-8.409917,"P.Marítimo,As Lagoas"
+156,"Paseo Marítimo, fronte á Domus",156,43.376952,-8.406822,"P.Marítimo,f/Domus"
+157,"Paseo Marítimo, fonte dos Surfistas",157,43.374797,-8.403155,"P.Marítimo,Surfistas"
+159,"Paseo Marítimo, f/ ó Centro de Saúde",159,43.369752,-8.405942,"P.Marítimo,f/C.Saúde"
+160,,160,43.366613,-8.408667,"Juan Flórez, 10"
+161,,161,43.366208,-8.411735,Pza. do Mestre Mateo
+162,"Av. da Habana, Estadio",162,43.368058,-8.416808,"Av.da Habana,Estadio"
+163,"Av. da Habana, Cidade Xardín",163,43.367615,-8.419497,"Av.Habana,Cid.Xardín"
+164,,164,43.371087,-8.439437,O Portiño
+165,"San Pedro de Visma, Estrada Fortes",165,43.369808,-8.434655,"S.Pedro Visma,Fortes"
+166,"San Pedro de Visma, Estrada de Bens",166,43.368795,-8.431882,"S.Pedro Visma, Bens"
+167,,167,43.368708,-8.404675,"San Andrés, 121"
+168,,168,43.370843,-8.401368,"San Andrés, 33"
+169,"Paseo Marítimo, Salesianos",169,43.373363,-8.402708,"P.Marítimo,Salesiano"
+170,,170,43.382097,-8.400608,"Av. de Navarra, 57"
+173,,173,43.380498,-8.399312,"Av. de Navarra, 27"
+174,,174,43.37873,-8.398363,"A Torre, 91"
+175,,175,43.375628,-8.398238,"A Torre, 63"
+176,,176,43.373333,-8.396467,Baltasar Pardal
+177,,177,43.37205,-8.390768,Hípica
+178,"A Maestranza, Veramar",178,43.373348,-8.394283,"A Maestranza,Veramar"
+179,,179,43.368973,-8.390482,Xardín de San Carlos
+180,,180,43.368827,-8.39362,"O Parrote, Capitanía"
+181,"Av. de Hércules, mercado",181,43.37784,-8.403058,"Av.Hércules,mercado"
+182,,182,43.377215,-8.401232,"Av. de Hércules, 37"
+183,,183,43.373213,-8.39739,"Pza. de España, 24"
+184,,184,43.37247,-8.399365,"Panadeiras, Museo"
+185,,185,43.370172,-8.40279,"San Andres, Africano"
+186,"Pza. Pontevedra, IES Eusebio da Guarda",186,43.367792,-8.407103,"Pontevedra,IESGuarda"
+187,,187,43.363957,-8.408128,"Juan Flórez, 56"
+188,,188,43.362465,-8.408073,"Juan Flórez, 82"
+189,,189,43.360398,-8.406503,"Juan Flórez, 116"
+191,"Camilo José Cela, Bloque 44",191,43.344497,-8.405032,"Camilo J.Cela,Blq.44"
+192,"Camilo José Cela, Bloque 56",192,43.34588,-8.404053,"Camilo J.Cela,Blq.56"
+193,"Camilo José Cela, Bloque 2",193,43.347043,-8.40254,"Camilo J.Cela,Bloq.2"
+194,,194,43.35979,-8.405778,"Juan Flórez, 119"
+195,,195,43.362937,-8.406348,Pza. de Vigo
+196,,196,43.365112,-8.406893,Pza. de Galicia
+197,"Pza. de Pontevedra, 11",197,43.36735,-8.408163,"Pza.de Pontevedra,11"
+198,,198,43.372425,-8.39938,"Panaderas, 49"
+199,,199,43.373442,-8.397375,Pza. de España
+200,,200,43.379413,-8.398738,"Santo Tomás, 2"
+201,,201,43.379243,-8.401917,"Santo Tomás, 72"
+202,,202,43.380038,-8.406488,"As Lagoas, glorieta"
+203,,203,43.353763,-8.407712,Marqués de Figueroa
+204,"O Birloque, fronte peña A Chave",204,43.342703,-8.414507,"Birloque,peña Chave"
+205,,205,43.34045,-8.41335,A Cabana
+206,,206,43.354548,-8.408657,Capitán Juan Varela
+207,,207,43.356387,-8.407435,Pza. de Monforte
+212,"Estrada de Carballo, Iveco",212,43.347163,-8.425487,"Estra.Carballo,Iveco"
+215,,215,43.365695,-8.41097,"Av. de Fisterra, 44"
+216,,216,43.363597,-8.413047,"Av. de Fisterra, 84"
+217,,217,43.361065,-8.416072,"Av. de Fisterra, 192"
+218,,218,43.359738,-8.418432,"Av. de Fisterra, 256"
+219,,219,43.358745,-8.420758,"Av. de Fisterra, 288"
+220,"Av. de Fisterra, Ventorrillo",220,43.357762,-8.423052,"Av.Fisterra,Ventorr."
+221,,221,43.356132,-8.426788,A Silva
+222,,222,43.354708,-8.429918,Fontenova
+223,,223,43.352872,-8.433838,A Moura
+224,,224,43.350905,-8.438775,Refinería
+225,,225,43.348593,-8.443195,San Xosé
+226,,226,43.350313,-8.439577,Refinería
+227,,227,43.35125,-8.438118,Iglexa da Moura
+228,,228,43.352955,-8.433297,A Moura
+229,,229,43.354792,-8.42935,Fontenova
+230,,230,43.356208,-8.426227,A Silva
+231,,231,43.357995,-8.422083,Ventorrillo
+232,"Av. de Fisterra, Rda. de Outeiro",232,43.35875,-8.420472,"A.Fisterra,R.Outeiro"
+233,,233,43.360152,-8.417335,"Av. de Fisterra, 215"
+234,,234,43.361842,-8.415028,"Av. de Fisterra, 147"
+235,,235,43.363963,-8.41268,"Av. de Fisterra, 69"
+236,,236,43.365492,-8.411165,"Av. de Fisterra, 31"
+237,,237,43.368537,-8.413992,Riazor
+238,"Manuel Murguía, Escravas",238,43.369668,-8.41619,"M.Murguía, Escravas"
+239,"Manuel Murguia, Empresariales",239,43.368998,-8.420218,"M. Murguia, Empres."
+240,,240,43.367098,-8.422237,"Av. de Peruleiro, 20"
+241,"Mosteiro de Bergondo, 12",241,43.362235,-8.423632,"Mosteiro Bergondo,12"
+242,"Peñamaría de Llano, 6",242,43.36119,-8.42526,"Peñamaría de Llano,6"
+243,Alcalde Jaime Hervada,243,43.358973,-8.426097,Alcalde J.Hervada
+244,"Ventorrillo, Centro de Saúde",244,43.358353,-8.422825,"Ventorrillo,C.Saúde"
+245,Rodrigo A. de Santiago,245,43.360108,-8.422573,Rodrigo A. Santiago
+246,,246,43.363867,-8.421202,"Vila de Negreira, 43"
+247,,247,43.364613,-8.41941,"Vila de Negreira, 9"
+248,"Manuel Murguía, Casa da Auga",248,43.368905,-8.420163,"M.Murguía,Casa Auga"
+249,"Manuel Murguía, pavillón",249,43.369578,-8.41617,"M.Murguía,pavillón"
+250,,250,43.361823,-8.409607,Costa da Unión
+251,,251,43.359848,-8.410318,"Pla y Cancela, 38"
+252,,252,43.357698,-8.410402,"Os Mallos, Biscaia"
+253,"Os Mallos, Ronda Outeiro",253,43.356132,-8.411758,"Os Mallos,Rda.Outeir"
+255,"Av. da Sardiñeira, Europa",255,43.351467,-8.412717,"Av.Sardiñeira,Europa"
+256,"Av. da Sardiñeira, Estación de Trens",256,43.353268,-8.410208,"A.Sardiñeira,Est.Tre"
+257,,257,43.357533,-8.412638,"Av. de Arteixo, 85"
+258,,258,43.3597,-8.410242,"Pla y Cancela, 41"
+259,,259,43.361998,-8.409765,Enrique Dequidt
+260,,260,43.377337,-8.397342,Cabo Ponte Anido
+261,,261,43.376783,-8.399743,"Ramón del Cueto, 37"
+262,,262,43.374913,-8.40119,Curros Enríquez
+263,,263,43.379905,-8.407015,"Av. de Hércules, 115"
+264,"Rda. de Outeiro, Hotel Avenida",264,43.35212,-8.407945,"Rd.Outeiro,H.Avenida"
+265,"Rda. de Outeiro, viaduto",265,43.35162,-8.40541,"Rda. Outeiro,viaduto"
+266,"Ronda. Outeiro, La Cubela",266,43.351752,-8.401688,"Rda. Outeiro, Cubela"
+267,,267,43.353372,-8.397443,"Rda. Outeiro, Merced"
+268,"Ramón y Cajal, Casa do Mar",268,43.357442,-8.400348,"Ramón y Cajal,C.Mar"
+269,"Rda. de Outeiro, Pérez Ardá",269,43.35168,-8.404437,"R.Outeiro,Pérez Ardá"
+270,,270,43.3588,-8.402245,Pza. da Palloza
+271,"Av. do Exército, Casa do Mar",271,43.357963,-8.400362,"Av.Exército,Casa Mar"
+272,,272,43.356482,-8.398137,"Av. do Exército, 16"
+275,"Av. da Pasaxe, gasolineira",275,43.338657,-8.389027,"Av.Pasaxe,gasolinei."
+276,"Av. da Pasaxe, oncolóxico",276,43.3349,-8.38961,"Av.Pasaxe,oncolóxico"
+277,"Av. de Alfonso Molina, Pedralonga",277,43.330732,-8.390993,"A.Molina, Pedralonga"
+278,"Av. de Alfonso Molina, Palavea",278,43.329977,-8.394712,"A.Molina, Palavea"
+279,"Av. de Alfonso Molina, Ofimático",279,43.336018,-8.403482,"A.Molina, Ofimático"
+280,"Alfonso Molina, Armas",280,43.332662,-8.400727,"A. Molina, Armas"
+281,"Av. de Alfonso Molina, Matogrande",281,43.340885,-8.40699,"A.Molina, Matogrande"
+282,,282,43.348645,-8.407373,Paxariñas
+283,,283,43.348673,-8.408275,Paxariñas
+284,"Pablo Picasso, Isaac Díaz Pardo",284,43.346522,-8.410812,"P. Picasso,I.D.Pardo"
+285,,285,43.344572,-8.413493,"Pablo Picasso, 4"
+286,"Av. de Alfonso Molina, Coliséum",286,43.340688,-8.407233,"A.Molina,Coliséum"
+287,"Av. de Alfonso Molina, Edif. Sindicatos",287,43.337227,-8.404732,"A.Molina,E.Sindicat."
+288,"Av.Alfonso Molina,cruzamento A Zapateira",288,43.332508,-8.401418,"A.Molina,Zapateira"
+289,"Av. de Alfonso Molina, baixo autoestrada",289,43.330243,-8.397665,"A.Molina,autoestrada"
+290,"Av. de Alfonso Molina, Palavea",290,43.329672,-8.3946,"Alfon.Molina,Palavea"
+291,"Av. da Pasaxe, Ponte da Pasaxe",291,43.332618,-8.38682,"Av.Pasaxe,P.Pasaxe"
+292,"Av. Pasaxe, Colexio Santa María do Mar",292,43.335613,-8.389255,"Av.Pasaxe, S.M.Mar"
+293,"Av. da Pasaxe, Materno Infantil",293,43.33929,-8.388817,"Av.Pasaxe,M.Infantil"
+294,,294,43.338047,-8.414605,FP Someso
+295,,295,43.33783,-8.418542,O Martinete
+296,"Estrada de Pocomaco, O Martinete",296,43.338815,-8.420655,"E.Pocomaco,Martinete"
+297,"Estrada de Mesoiro, glorieta",297,43.335873,-8.422058,"Estrada Mesoiro,gta."
+298,,298,43.333123,-8.424258,"Mesoiro, 22"
+299,,299,43.330915,-8.426008,"Mesoiro, 90"
+300,"Estrada de Mesoiro, Illas Sisargas",300,43.32907,-8.427332,"Mesoiro, I.Sisargas"
+301,,301,43.32428,-8.429943,"Feáns, 32"
+302,,302,43.323102,-8.430922,"Feáns, 56"
+303,,303,43.322035,-8.43348,"Feáns, 76"
+304,"Estrada Cemiterio, Estrada de Uxes",304,43.320545,-8.435662,"Estra.Cemiterio,Uxes"
+305,,305,43.316465,-8.442443,Cemiterio de Feáns
+306,,306,43.313428,-8.443995,Urbanización Breogán
+307,,307,43.315875,-8.443133,Cemiterio de Feáns
+308,"Estrada Cemiterio, Estrada de Uxes",308,43.320537,-8.435572,"Estra.Cemiterio,Uxes"
+309,,309,43.322025,-8.433363,"Feáns, 109"
+310,,310,43.323295,-8.430513,"Feáns, 55"
+311,"Estrada de Mesoiro, Illas Sisargas",311,43.329033,-8.427295,"Mesoiro,I.Sisargas"
+312,"Pocomaco, cruzamento Mesoiro",312,43.33079,-8.427335,"Pocomaco,cru.Mesoiro"
+313,,313,43.33202,-8.4286,Pocomaco C15
+314,,314,43.333952,-8.42611,Pocomaco C8
+315,"Pocomaco, gasolineira",315,43.33634,-8.422395,"Pocomaco,gasolineira"
+316,"Estrada de Pocomaco, O Martinete",316,43.338948,-8.420763,"Pocomaco,O Martinete"
+317,"O Birloque, residencial O Birloque",317,43.340555,-8.41676,"Birloque,r.Birloque"
+318,"San Cristóbal, Salgado Torres",318,43.34417,-8.414265,"S Cristobal, S Torre"
+319,"Salgado Torres, Garda Civil",319,43.346242,-8.413247,"S.Torres,Garda Civil"
+320,"Salgado Torres, Milagrosa",320,43.348758,-8.410425,"S.Torres, Milagrosa"
+321,"Salgado Torres, túnel",321,43.35057,-8.409288,"Salgado Torres,túnel"
+322,,322,43.355172,-8.402847,Ramón y Cajal
+323,"O Birloque, peña A Chave",323,43.342887,-8.414762,"O Birloque,A Chave"
+324,"O Birloque, estrada de Pocomaco",324,43.340955,-8.416192,"O Birloque,Pocomaco"
+325,"Estrada de Pocomaco, O Martinete",325,43.339027,-8.420515,"Pocomaco,O Martinete"
+326,,326,43.336312,-8.422973,Pocomaco B15
+327,,327,43.334167,-8.426048,Pocomaco B4
+328,,328,43.332135,-8.428613,Pocomaco A5
+329,"Pocomaco, Terceira Rda.",329,43.330538,-8.426933,"Pocomaco, 3.Rda."
+330,"Pocomaco 4, desvio a Vio",330,43.330707,-8.433803,"Pocomaco 4, Vio"
+331,,331,43.328278,-8.439823,Vio
+332,,332,43.327205,-8.436488,Paideia
+333,"Pocomaco, Estrada de Feáns",333,43.329192,-8.43217,"Pocomaco, Feáns"
+334,,334,43.318707,-8.426708,Obradoiro
+335,,335,43.31975,-8.429417,Estrada do Obradorio
+336,,336,43.331712,-8.425348,"Mesoiro, 73"
+337,,337,43.33324,-8.424003,"Mesoiro, 43"
+338,,338,43.335173,-8.422142,"Mesoiro, 11"
+339,"O Martinete, Estrada de Pocomaco",339,43.338465,-8.420457,"O Martinete,Pocomaco"
+340,,340,43.337822,-8.41858,O Martinete
+341,,341,43.338068,-8.414553,FP Someso
+342,,342,43.34078,-8.413475,A Cabana
+343,"O Birloque, polideportivo",343,43.3423,-8.414278,"Birloque,polidepor."
+344,"Av. de Alfonso Molina, Pza. de Madrid",344,43.352992,-8.406935,"A.Molina,Pza.Madrid"
+345,"Paxariñas, Álvaro Cunqueiro",345,43.347605,-8.40848,"Paxariñas,A.Cunquei."
+346,"Av. de Alfonso Molina, Campus de Elviña",346,43.334985,-8.403113,"A.Molina,Camp.Elviña"
+348,"Campus de Elviña, glorieta",348,43.333013,-8.412198,"Campus Elviña,gla."
+349,"Campus de Elviña, Informática",349,43.33372,-8.410788,"Campus Elviña,Infor."
+350,"Antonio Insua Rivas, 2",350,43.335617,-8.403758,"Antonio I. Rivas, 2"
+351,"Antonio Insua Rivas, 34",351,43.33391,-8.404445,"Antonio I. Rivas, 34"
+352,"Antonio Insua Rivas, 54",352,43.332525,-8.407432,"Antonio I. Rivas, 54"
+353,"Antonio Insua Rivas, 86",353,43.330118,-8.408362,"Antonio I. Rivas, 86"
+354,"Campus da Zapateira, Arquitectura",354,43.32732,-8.408292,"Campus Zapa., Arqui."
+356,"Campus da Zapateira, Filoloxía",356,43.326023,-8.406657,"Campus Zapa.,Filolo."
+357,"Nova York, Xesuitinas",357,43.330592,-8.40508,"Nova York,Xesuitinas"
+358,"Os Rosales, cruzamento San Pedro",358,43.372718,-8.435767,"Os Rosales,San Pedro"
+359,"Salvador de Madariaga, gasolineira",359,43.349042,-8.405643,"S.Madariaga,gasolin."
+361,"Salvador Madariaga, Rafael Alberti",361,43.346312,-8.406455,"S.Madariaga,RAlberti"
+362,"Camilo José Cela, San Cristovo",362,43.343173,-8.405593,"Cam.J.Cela,Cristovo"
+363,"Av. de Monelos, fronte ó 211",363,43.34317,-8.397688,"Av. de Monelos,f/211"
+364,,364,43.340508,-8.39538,"Estrada de Eirís, 40"
+365,"Av. de Monserrat, xeriátrico",365,43.338132,-8.392537,"Av. Monserrat,xeriat"
+366,"Av. de Monserrat, Urb. Los Arces",366,43.3366,-8.391295,"Av.Monserrat,U.Arces"
+367,,367,43.334685,-8.391422,"Av. de Monserrat, 40"
+368,"Av. de Pedralonga, Fábrica de Armas",368,43.331948,-8.391128,"Pedralonga,Fáb.Armas"
+369,,369,43.328918,-8.390048,Alcampo
+370,,370,43.329033,-8.388843,Santa Xema
+371,,371,43.33112,-8.385807,"A Pasaxe, Santa Xema"
+372,,372,43.331208,-8.386875,A Pasaxe
+373,"Av. de Pedralonga, 57",373,43.332093,-8.39117,"Av. de Pedralonga,57"
+374,"Av. de Pedralonga, fronte ó 4",374,43.334465,-8.391412,"Av. Pedralonga,f/4"
+375,"Av. de Monserrat, Oncolóxico",375,43.336668,-8.39126,"Av.Monserrat, Oncol."
+376,"Estrada de Eirís, fronte ó 46",376,43.339653,-8.394115,"Estrada Eirís, f/46"
+377,,377,43.341263,-8.395997,"Av. de Monelos, 243"
+378,,378,43.343267,-8.397685,"Av. de Monelos, 211"
+379,,379,43.340717,-8.404133,Matogrande
+380,"Camilo José Cela, Bloque 40",380,43.343122,-8.4053,"Camilo J.Cela,Blq.40"
+381,"Salvador Madariaga, Pablo Neruda",381,43.346172,-8.406413,"S.Madariaga,P.Neruda"
+382,"Salvador Madariaga, mercado",382,43.348525,-8.405755,"S.Madariaga, mercado"
+383,"Salvador Madariaga, Monelos",383,43.349807,-8.40467,"S.Madariaga, Monelos"
+384,"Av. da Habana, Pérez Lugin",384,43.368057,-8.41626,"A.Habana,Pérez Lugin"
+385,,385,43.367943,-8.411777,Av. de Bos Aires
+386,"Paseo Marítimo, Matadoiro",386,43.375655,-8.403165,"P.Marítimo,Matadoiro"
+387,"Paseo Marítimo, Santa Teresa",387,43.376633,-8.406103,"P.Marítimo,S.Teresa"
+388,"Rda. de Monte Alto, 117",388,43.378623,-8.407403,"Rda.Monte Alto, 117"
+389,,389,43.380288,-8.408867,"Paseo Marítimo, 9"
+390,"Paseo Marítimo, FP Ánxel Casal",390,43.382983,-8.409318,"P.Marítimo,FP Casal"
+391,,391,43.382888,-8.402255,Glorieta da Torre
+393,"Plaza Pontevedra, Juana de Vega",393,43.36783,-8.406875,"Pz Ponteved, J. Vega"
+394,Estrada Campus de Elviña,394,43.335232,-8.405798,Estrada Camp. Elviña
+395,"Glor. av. de Fisterra, Rda. de Outeiro",395,43.359028,-8.419588,"A.Fisterra,R.Outeiro"
+396,,396,43.355692,-8.402655,"Ramón y Cajal, 30"
+397,"Salgado Torres, túnel",397,43.350703,-8.409425,"Salgado Torres,túnel"
+398,"Pza. de Pontevedra, 18",398,43.367448,-8.408673,"Pza. Pontevedra, 18"
+399,"Av. Alfonso Molina, Estación Autobuses",399,43.353217,-8.406592,"Alfonso Molina, E.A."
+400,"Av. de Alfonso Molina, Fdez. Latorre",400,43.35967,-8.405027,"Alf.Molina,F.Latorre"
+402,,402,43.349645,-8.447637,Av. Nostián
+403,,403,43.349122,-8.45092,Av. do Butano
+404,,404,43.349718,-8.456815,Nostián
+405,,405,43.349083,-8.45093,Av. do Butano
+406,,406,43.34977,-8.44778,Av. Nostián
+407,,407,43.348248,-8.443912,San José
+408,"Estrada de Bens, Penamoa",408,43.353143,-8.436542,"Estrada Bens,Penamoa"
+409,,409,43.35348,-8.439885,Chalés Refinería
+410,,410,43.357793,-8.444078,Mazaído
+411,,411,43.355003,-8.441922,Comeanda
+412,,412,43.359465,-8.447868,Bens
+413,,413,43.35484,-8.441898,Comeanda
+414,,414,43.357123,-8.44351,Mazaído
+415,,415,43.353418,-8.439777,Chalés Refinería
+416,,416,43.354605,-8.3951,"Av. do Exército, 44"
+417,"O Birloque, Bloque 6-8",417,43.342152,-8.414473,"O Birloque, Bloq.6-8"
+424,,424,43.373368,-8.427533,Cocheras
+425,"Paseo Marítimo, Modesta Goicouria",425,43.368627,-8.408362,"P.Marítimo,Goicouria"
+426,"Paseo Marítimo, Centro de Saúde",426,43.369645,-8.405938,"P.Marítimo,C.Saúde"
+428,,428,43.32496,-8.406195,"Nova York, Filoloxía"
+429,"Nova York, Augas Mansas",429,43.323643,-8.407942,"Nova York, A. Mansas"
+430,,430,43.314475,-8.421135,"Nova York, Valaire"
+431,,431,43.315553,-8.416738,"Nova York, Casino"
+432,,432,43.32357,-8.407955,"Nova York, Rialta"
+433,"Nova York, fronte Filoloxía",433,43.325105,-8.405878,"Nova York,Filoloxía"
+434,,434,43.373345,-8.42758,Cocheras
+435,,435,43.326263,-8.403232,"Nova York, Amberes"
+437,,437,43.368808,-8.402053,Obelisco
+438,,438,43.370733,-8.404522,P. Maritimo
+439,"Campus Zapateira, Casa Francés",439,43.355693,-8.402657,"Zapateira, Frances"
+440,"General Sanjurjo, Carret. Pasaxe",440,43.349762,-8.390488,"Gral Sanjurjo, Pasax"
+443,"Nova York, fronte ó Casino",443,43.315662,-8.416572,"Nova York, f/Casino"
+445,"Av. de Monelos, Bloque 6",445,43.346245,-8.400673,"Av.Monelos, Bloque 6"
+446,"Vicente Aleixandre, 39",446,43.347047,-8.40044,"Vicent Aleixandre,39"
+447,,447,43.3479,-8.39976,"Antonio Noche, 10"
+452,,452,43.329822,-8.405867,Lisboa
+453,,453,43.327858,-8.403557,"Nova York, Belgrado"
+456,"Intercampus, Arquitectura",456,43.326915,-8.41008,"Intercampus,Arquite."
+457,,457,43.327983,-8.413108,"Intercampus, pobo"
+458,"Intercampus, O Castro",458,43.327822,-8.413187,"Intercampus,O Castro"
+459,"Intercampus, Económicas",459,43.331075,-8.412742,"Intercampus,Económi."
+460,"Intercampus, glorieta Elviña",460,43.332603,-8.41217,"Intercamp,Gta.Elviña"
+461,"Campus de Elviña, cruzamento pobo",461,43.334795,-8.406307,"Campus Elviña,pobo"
+462,"Campus da Zapateira, Aparelladores",462,43.32721,-8.408427,"Campus Zapa,Aparella"
+463,,463,43.314702,-8.42021,Valaire 107-109
+464,,464,43.308458,-8.424173,O Carón
+465,,465,43.343015,-8.415037,"Birloque, 22"
+466,"Av. de Arteixo, fronte ó 105",466,43.355212,-8.414112,"Av. de Arteixo,f/105"
+467,"Av. de Arteixo, Centro de Saúde",467,43.35256,-8.415717,"Av.Arteixo, C. Saúde"
+468,,468,43.351702,-8.416998,Maria J. Wonenburger
+469,,469,43.35014,-8.430185,Newton
+470,,470,43.352087,-8.430857,"Severo Ochoa, Newton"
+471,"Severo Ochoa, Galileo Galilei",471,43.350883,-8.424373,"S. Ochoa,G. Galilei"
+472,"Av. da Sardiñeira, Fenosa",472,43.349853,-8.417943,"Av.Sardiñeira,Fenosa"
+473,"Av. da Sardiñeira, IES",473,43.349322,-8.416358,"Av.da Sardiñeira,IES"
+480,"Nova York, Los Abetos",480,43.325722,-8.404028,"Nova York,Los Abetos"
+481,"Newton, Galileo Galilei",481,43.347445,-8.427727,"Newton, G. Galilei"
+482,"A Maestranza, Metrosidero",482,43.371232,-8.390888,"Maestranza,Metrosid."
+483,,483,43.31111,-8.421888,"Valaire, O Carón"
+485,"Los Rosales, Residencia Ancianos",485,43.372942,-8.43602,"Rosales, Re Ancianos"
+486,"Illas Sisargas, supermercado",486,43.326313,-8.4299,"Illas Sisargas,super"
+487,,487,43.325828,-8.433035,"Novo Mesoiro, 10"
+488,,488,43.325113,-8.435775,"Novo Mesoiro, 30"
+489,,489,43.325118,-8.44012,"Ribeira Sacra, 3"
+490,,490,43.324305,-8.444162,"Ribeira Sacra, 12"
+491,,491,43.323802,-8.442022,Fragas do Eume
+492,"Novo Mesoiro, fronte ó 38",492,43.324768,-8.438408,"Novo Mesoiro, f/38"
+493,,493,43.325063,-8.435442,"Novo Mesoiro, 25"
+494,,494,43.325865,-8.432647,"Novo Mesoiro, 5"
+495,"Illas Sisargas, Feáns",495,43.326537,-8.429187,"Illas Sisargas,Feáns"
+496,"Glorieta cruzamento Eirís, viaduto",496,43.343862,-8.398672,"Gta. Eirís, viaduto"
+497,"Campus de Elviña, Edif. Sindicatos",497,43.33596,-8.407207,"Campus Elviña,Sindi."
+498,,498,43.328262,-8.403202,"Nova York, Londres"
+499,"Estrada Bens, av. de Fisterra",499,43.353095,-8.436663,"Rua Bens,Av.Fisterra"
+500,"Av. da Pasaxe, As Xubias",500,43.342142,-8.387785,"Av.Pasaxe,As Xubias"
+501,Lugar de Penarredonda,501,43.329908,-8.39832,Lg. de Penarredonda
+502,"Barrio de las Flores, Eiris",502,43.343625,-8.398213,"Barrio Flores, Eiris"
+503,,503,43.339212,-8.404848,Edificio Proa
+504,,504,43.351555,-8.427928,Severo Ochoa
+505,,505,43.351207,-8.403953,"Pérez Arda,  Brasil"
+506,"Vicente Aleixandre, 55",506,43.346192,-8.40013,"Vicent Aleixandre,55"
+507,"Vicente Aleixandre, 1",507,43.348047,-8.400835,"Vicente Aleixandre,1"
+508,,508,43.349275,-8.39584,"Curtis, fronte ó 6"
+509,"José María Hernansáez, 31",509,43.350552,-8.39489,"J. M. Hernansáez,31"
+522,,522,43.359168,-8.445162,Igrexa de Bens
+523,,523,43.367915,-8.390042,Abente y Lago
+524,,524,43.35396,-8.393145,"Av. do Exército, 68"
+525,"Os Castros, Av. da Concordia",525,43.352245,-8.390665,"Castros,Av.Concordia"
+526,,526,43.367657,-8.406388,Juana de Vega
+527,,527,43.369482,-8.415002,"Riazor, Esclavas"
+528,"Casa de los Peces, Las Lagoas",528,43.381565,-8.409732,Casa de los Peces
+529,"Torre de Hercules, Glorieta",529,43.382612,-8.401417,"T. Hercules,Glorieta"
+530,"San Amaro, Cementerio",530,43.377633,-8.394272,"S.Amaro, Cementerio"
+531,,531,43.372285,-8.390302,Maestranza Hipica
+532,"Castillo de San Anton, Glorieta",532,43.367262,-8.389232,"C.S.Anton, Glorieta"
+533,"La Solana, provisional",533,43.367967,-8.392917,"La Solana, provis."
+535,"Castillo de San Anton, Nautico",535,43.36731,-8.388762,"C.S.Anton, Nautico"
+536,,536,43.372367,-8.390203,"Maestranza, costa"
+537,,537,43.378057,-8.394238,"San Amaro, Costa"
+538,,538,43.38215,-8.40745,"Cocheras Tranvia, I"
+539,,539,43.38215,-8.40745,"Cocheras Tranvia, V"
+540,,540,43.339055,-8.41151,Espacio Coruña
+541,,541,43.359408,-8.445762,Igrexa de Bens
+542,,542,43.311258,-8.441898,"Luis Iglesias, 4"
+543,,543,43.311218,-8.441912,"Luis Iglesias, 4"
+544,,544,43.309865,-8.443775,Francisco Sánchez
+545,,545,43.3376,-8.390067,Oncolóxico
+546,Cruzamento de Luis Freire,546,43.312,-8.44275,Cruz. de Luis Freire
+547,Félix Rodríguez de la Fuente,547,43.31205,-8.44273,Félix Rgez.la Fuente
+548,,548,43.3135,-8.443833,Breogan
+549,,549,43.381352,-8.40922,As Lagoas
+550,Área Comercial Marineda,550,43.345977,-8.428935,Área Comerc.Marineda
+551,,551,43.352535,-8.386815,Porto de Oza
+552,,552,43.34708,-8.386878,Hospital de Oza
+553,"Emilio González López, 44",553,43.374295,-8.436638,"Emilio Glez.López,44"
+554,"Paseo Marítimo, Cancela",554,43.371508,-8.403925,"P. Marítimo, Cancela"
+555,"Rúa Hospital, Zalaeta",555,43.373092,-8.400775,"Rúa Hospital,Zalaeta"
+556,,556,43.373817,-8.396217,"San Juan, 10"
+557,,557,43.340717,-8.404133,"Matogrande, rotonda"
+558,"Intercampus, Arquitectura",558,43.326608,-8.410492,"Intercampus,Arquite."
+559,"Rda. de Outeiro, IES Rafael Dieste",559,43.369017,-8.424437,"R.Outeiro,IES Dieste"
+560,"Educación, Conservatorio",560,43.371128,-8.422252,"Educa.,Conservatorio"
+561,José María Rivera Corral,561,43.35223,-8.421165,José M.Rivera Corral
+562,"Av. do Ferrocarril, 14",562,43.350177,-8.411475,"Av.do Ferrocarril,14"
+563,"Av. do Ferrocarril, 54",563,43.346863,-8.415732,"Av.do Ferrocarril,54"
+564,"San Cristovo, av. da Sardiñeira",564,43.348185,-8.419685,"S.Cristovo,Sardiñei."
+565,"Av. do Ferrocarril, 81",565,43.346543,-8.416433,"Av.do Ferrocarril,81"
+566,"Av. do Ferrocarril, Pza. Ozores Arraiz",566,43.347867,-8.414202,"Av.Ferro.,Pza.Arraiz"
+567,"Av. do Ferrocarril, 33",567,43.35007,-8.411495,"Av.do Ferrocarril,33"
+568,"Av. de Navarra, Rda. de Monte Alto",568,43.381617,-8.400157,"Av.Navarra,Rd.M.Alto"
+569,"Rda. de Monte Alto, 32",569,43.381202,-8.403565,"Rda.de Monte Alto,32"
+570,"Rda. de Monte Alto, 52",570,43.380598,-8.40657,"Rda.de Monte Alto,52"
+571,"Nova York, A Zapateira",571,43.322327,-8.410972,"Nova York, Zapateira"
+572,"Nova York, A Zapateira",572,43.322508,-8.409985,"Nova York, Zapateira"
+573,"Travesía de Meicende, 159",573,43.34607,-8.447587,"Trv. de Meicende,159"
+574,"Meicende, Av. do Butano",574,43.344278,-8.450893,"Meicende, Av. Butano"
+575,"Travesía de Meicende, 166",575,43.346405,-8.446917,"Trav.de Meicende,166"
+576,"Travesía de Meicende, 214",576,43.348005,-8.443907,"Trav.de Meicende,214"
+577,"Meicende, Av. do Butano",577,43.34431,-8.450778,"Meicende, Av. Butano"
+578,"Nova York, lugar de Monte do Espiño",578,43.321822,-8.41284,"Nova York,Mon.Espiño"
+579,Pza. de Casares Quiroga,579,43.34882,-8.409648,Pza. Casares Quiroga
+580,"Av. do Ferrocarril,f/ Pza.Ozores Arraiz",580,43.347958,-8.414245,"Av.Ferro.,Pza.Arraiz"
+581,"Av. do Ferrocarril, Residencial Trébole",581,43.347307,-8.418097,"Av.Ferrocar.,Trébole"
+582,,582,43.344023,-8.415795,Aparcadoiro Lonzas
+583,,583,43.344068,-8.415668,Aparcadoiro Lonzas
+584,"Santa Cristina, Glorieta",584,43.333485,-8.378762,Santa Cristina
+585,Urbanización Os Olivos,585,43.29585,-8.429608,Urb. Os Olivos
+586,Urbanización Valle Sur,586,43.295358,-8.430157,Urb. Valle Sur
+587,Urbanización Monte Golf,587,43.301898,-8.427625,Urb. Monte Golf
+588,Urbanización O Carón,588,43.307193,-8.426672,Urb. O Carón
+589,"Provisional, Jose Miñones",589,43.348172,-8.40918,"Provisional, J.Miñon"
+590,,590,43.346165,-8.385033,Hospital de Oza
+591,,591,43.344475,-8.385612,As Xubias
+592,,592,43.353008,-8.403147,"Perez Ardá, C. Chile"
+593,,593,43.373652,-8.419818,Obelisco Millenium
+594,,594,43.356913,-8.413248,"Avda. Arteixo, 74"
+595,Aurelio Aguirre Galarraga,595,43.33553,-8.406882,Aurelio Aguirre
+596,,596,43.365977,-8.408523,"Juan Florez, 18"
+597,"Avenida Porto, entrada parking",597,43.36738,-8.401977,"Av.Porto, entrada Pa"
+598,"Avenida Porto, A Terraza",598,43.367285,-8.402222,"Av.Porto, A Terraza"
